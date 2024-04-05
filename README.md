@@ -1,4 +1,4 @@
-### Olá, sou Bruno Fellype 👋
+<h1>Olá, sou Bruno Fellype 👋</h1>
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ##
+ <h2>Formas de entrar em contato📞:</h2>
  
 <div> 
   <a href="https://instagram.com/_brunofellype_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
