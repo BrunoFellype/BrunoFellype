@@ -1,7 +1,7 @@
 <h1>Olá, sou Bruno Fellype 👋</h1>
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
+Técnico em Desenvolvimento de Sistemas  
+Cursando Sistemas de Informação
 
  <div>
    <a href="https://github.com/BrunoFellype">
