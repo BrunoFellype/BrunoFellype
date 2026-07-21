@@ -27,8 +27,6 @@ Currently, I'm looking for internship opportunities where I can apply my knowled
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
 </div>
 
 ---
@@ -36,13 +34,10 @@ Currently, I'm looking for internship opportunities where I can apply my knowled
 
 <div align="center">
 
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=BrunoFellype&theme=dracula" height="250"alt="Custom GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=BrunoFellype&theme=dracula&cardType=langs" height="250" alt="Custom GitHub Stats"/>
-  </a>
+<img src="https://www.readmecodegen.com/api/github-stats/svg?username=BrunoFellype&theme=dracula" height="250"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.readmecodegen.com/api/github-stats/svg?username=BrunoFellype&theme=dracula&cardType=langs" height="250"/>
+
 </div>
 
 ---
